@@ -2,9 +2,9 @@
  * @Author: Xiao'Hong
  * @Date: 2020-06-15 15:53:57
  * @LastEditors: Xiao'Hong
- * @LastEditTime: 2020-06-15 16:38:55
+ * @LastEditTime: 2020-06-16 09:49:51
  * @Description: file content
- * @FilePath: \Java\demo02.java
+ * @FilePath: \Java\Practice\demo02.java
  */ 
 package Practice;
 public class demo02 {
