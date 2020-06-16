@@ -2,12 +2,13 @@
  * @Author: Xiao'Hong
  * @Date: 2020-06-15 16:18:12
  * @LastEditors: Xiao'Hong
- * @LastEditTime: 2020-06-15 17:48:14
+ * @LastEditTime: 2020-06-16 09:46:30
  * @Description:  数据类型转换
- * @FilePath: \Java\DemoDataType.java
+ * @FilePath: \Java\Practice\DemoDataType.java
  */ 
+package Practice;
 
- public class DemoDataType{
+public class DemoDataType{
     public static void main(String[] args) {
         // long强制转换为int
         int num1 =  (int) 6000000000L; 

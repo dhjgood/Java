@@ -1,10 +1,11 @@
+package Practice;
 /*
  * @Author: Xiao'Hong
  * @Date: 2020-06-15 13:56:58 
  * @LastEditors: Xiao'Hong
- * @LastEditTime: 2020-06-15 15:53:22
+ * @LastEditTime: 2020-06-16 09:46:20
  * @Description: file content
- * @FilePath: \Java\demo01.java
+ * @FilePath: \Java\Practice\demo01.java
  */ 
 public class demo01 {
   public static void main(String[] args) {

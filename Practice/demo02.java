@@ -6,6 +6,7 @@
  * @Description: file content
  * @FilePath: \Java\demo02.java
  */ 
+package Practice;
 public class demo02 {
      public static void main(String[] args) {
             int  num1 = 10;
